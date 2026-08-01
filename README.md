@@ -71,19 +71,16 @@ Senad is an intelligent system built to help the **Holy Makkah Municipality (Ama
 
 ## 🔗 Model
 
-The prediction model is included in this repository as a submodule, linked directly to the original: [SmartServicePriorityModelproject](https://github.com/GhalaSami/SmartServicePriorityModelproject) See the [`model/`](./model) folder.
+The prediction model is included in this repository: [SmartServicePriorityModelproject](https://github.com/GhalaSami/SmartServicePriorityModelproject)
+See the [`model/`](./model) folder.
 
 ## 👥 Team
 
-- Layan Almqati
-- Farah Alhazmi
-- Rahaf Almalki
-- Rawan Alahmadi
-- Ghala Alotaibi
-- Ghala Alhajjaji
-- Lama Alzahrani
-- Rawaa Abdulhadi
-
+<div align="left">
+[![Rahaf Almalki](https://img.shields.io/badge/Rahaf_Almalki-RahafAlmalki-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahafAlmalki)
+[![Rawan Alahmadi](https://img.shields.io/badge/Rawan%20Alahmadi-iiRawanj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iiRawanj)
+[![Ghala Alotaibi](https://img.shields.io/badge/Ghala%20Alotaibi-ghala44-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghala44)
+[![Ghala Alhajjaji](https://img.shields.io/badge/Ghala%20Alhajjaji-GhalaSami-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhalaSami)
 ---
 
 <details>
