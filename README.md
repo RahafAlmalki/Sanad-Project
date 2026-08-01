@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="sanad-poster.png" alt="Sanad Project Poster" width="250"/>
+  <img src="sanad-logo.png" width="250"/>
 </p>
 
 <h1 align="center">سِناد (Sanad)</h1>
