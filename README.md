@@ -88,6 +88,8 @@ See the [`model/`](./model) folder.
 
 [![Farah Alhazmi](https://img.shields.io/badge/Farah%20Alhazmi-FarahAlhazmi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FarahAlhazmi)
 
+
+[![Layan Almoqati](https://img.shields.io/badge/Layan%20Almoqat-LayanAlmoqat-181717?style=for-the-badge&logo=github&logoColor=white)]https://github.com/LayanAlmoqat)
 </div>
 
 ---
