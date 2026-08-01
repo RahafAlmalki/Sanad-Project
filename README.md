@@ -1,14 +1,23 @@
 <p align="center">
-  <img src="sanad-logo.png" width="250"/>
+  <img src="sanad-logo.png" alt="Sanad Logo" width="300"/>
 </p>
 
-<h1 align="center">سِناد (Sanad)</h1>
 <h3 align="center">Smart Municipal Service Prioritization System</h3>
 
 <p align="center">
-  <a href="https://smartserviceprioritymodelproject-hrswvrtl9zknku6cypeivl.streamlit.app/">Live Demo</a> ·
-  <a href="https://www.figma.com/design/Uu9l8FvwulS8VDVmnpQQv4/project">Figma Design</a> ·
-  <a href="https://drive.google.com/drive/u/1/folders/1AYNrvaGjTG90L4NRtrrrKeqyhielKwhX">Prototype Folder</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1E8449&center=true&vCenter=true&width=550&lines=AI-powered+priority+ranking+for+municipal+services;Built+for+Holy+Makkah+Municipality;Turning+reports+into+ranked+action" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Prototype-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Random%20Forest%20%7C%20XGBoost-1E8449?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="https://smartserviceprioritymodelproject-hrswvrtl9zknku6cypeivl.streamlit.app/">🚀 Live Demo</a> ·
+  <a href="https://www.figma.com/design/Uu9l8FvwulS8VDVmnpQQv4/project">🎨 Figma Design</a> ·
+  <a href="https://drive.google.com/drive/u/1/folders/1AYNrvaGjTG90L4NRtrrrKeqyhielKwhX">📁 Prototype Folder</a>
 </p>
 
 ---
@@ -19,38 +28,46 @@ Sanad is an intelligent system built to help the **Holy Makkah Municipality (Ama
 
 ## 🎯 Project Goals
 
-- Rank reports by priority
-- Support planning and decision-making
-- Improve resource distribution across teams
-- Promote fairness in response
-- Accelerate problem resolution
-- Raise the quality of life in Makkah
+| Goal | Description |
+|---|---|
+| 📊 Prioritize | Rank reports by priority level |
+| 🧭 Support Decisions | Support planning and decision-making |
+| ⚖️ Fairness | Promote fairness in response across neighborhoods |
+| 🚀 Speed | Accelerate problem resolution |
+| 🏙️ Impact | Raise the quality of life in Makkah |
 
 ## ✨ Core Services
 
-- Smart control dashboard for tracking reports
-- Report registration and tracking
-- Risk and priority classification
-- Map view of reports with live location display
-- Report status updates
-- Staff performance reports
+- 🖥️ Smart control dashboard for tracking reports
+- 📝 Report registration and tracking
+- 🚨 Risk and priority classification
+- 🗺️ Map view of reports with live location display
+- 🔄 Report status updates
+- 📈 Staff performance reports
 
 ## 🧪 Methodology
 
-1. Collected and processed report data to extract key features
-2. Trained machine learning models (**Random Forest**, **XGBoost**) to predict report priority scores
-3. Evaluated model performance using Accuracy, Recall, and Confusion Matrix to select the best-performing model
-4. Built a working demo that lets users input new report data, which the system automatically analyzes and classifies by priority level
+```
+1️⃣  Collect & process report data → extract key features
+2️⃣  Train ML models (Random Forest, XGBoost) → predict priority score
+3️⃣  Evaluate with Accuracy, Recall, Confusion Matrix → select best model
+4️⃣  Deploy interactive demo → classify new reports automatically
+```
 
 ## 📈 Expected Outcomes
 
-- More efficient execution of municipal services based on impact on population and location
-- A priority dashboard that speeds up decision-making for the relevant departments
-- Enables the Amanah to anticipate high-need areas and direct resources proactively
+- ⚙️ More efficient execution of municipal services based on impact on population and location
+- 📋 A priority dashboard that speeds up decision-making for relevant departments
+- 🔮 Enables the Amanah to anticipate high-need areas and direct resources proactively
 
 ## 🛠️ Tools Used
 
-Figma · Google Colab · Streamlit · GitHub
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
 
 ## 🔗 Model
 
@@ -66,6 +83,16 @@ The prediction model was developed by [Ghala Sami](https://github.com/GhalaSami)
 - Ghala Alhajjaji
 - Lama Alzahrani
 - Rawaa Abdulhadi
+
+---
+
+<details>
+<summary>📌 Click to view the full project poster</summary>
+<br>
+<p align="center">
+  <img src="sanad-poster.png" alt="Sanad Project Poster" width="600"/>
+</p>
+</details>
 
 ---
 
