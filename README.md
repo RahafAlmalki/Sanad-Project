@@ -79,9 +79,14 @@ See the [`model/`](./model) folder.
 <div align="left">
 
 [![Rahaf Almalki](https://img.shields.io/badge/Rahaf_Almalki-RahafAlmalki-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahafAlmalki)
+
 [![Rawan Alahmadi](https://img.shields.io/badge/Rawan%20Alahmadi-iiRawanj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iiRawanj)
+
 [![Ghala Alotaibi](https://img.shields.io/badge/Ghala%20Alotaibi-ghala44-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghala44)
+
 [![Ghala Alhajjaji](https://img.shields.io/badge/Ghala%20Alhajjaji-GhalaSami-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhalaSami)
+
+[![Farah Alhazmi](https://img.shields.io/badge/Farah%20Alhazmi-FarahAlhazmi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FarahAlhazmi)
 
 </div>
 
