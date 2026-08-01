@@ -58,7 +58,7 @@ Sanad is an intelligent system built to help the **Holy Makkah Municipality (Ama
 
 - ⚙️ More efficient execution of municipal services based on impact on population and location
 - 📋 A priority dashboard that speeds up decision-making for relevant departments
-- 🔮 Enables the Amanah to anticipate high-need areas and direct resources proactively
+- 🔮 Enables the **Holy Makkah Municipality** to anticipate high-need areas and direct resources proactively
 
 ## 🛠️ Tools Used
 
@@ -96,4 +96,4 @@ The prediction model was developed by [Ghala Sami](https://github.com/GhalaSami)
 
 ---
 
-<p align="center"><i>An AI System Design course project — Umm Al-Qura University, in collaboration with Holy Makkah Municipality</i></p>
+<p align="center"><i>Made with ❤️ by the Sanad team</i></p>
