@@ -71,7 +71,7 @@ Senad is an intelligent system built to help the **Holy Makkah Municipality (Ama
 
 ## 🔗 Model
 
-The prediction model was developed by [Ghala Sami](https://github.com/GhalaSami) — see [SmartServicePriorityModelproject](https://github.com/GhalaSami/SmartServicePriorityModelproject) for the model code.
+The prediction model is included in this repository as a submodule, linked directly to the original: [SmartServicePriorityModelproject](https://github.com/GhalaSami/SmartServicePriorityModelproject) See the [`model/`](./model) folder.
 
 ## 👥 Team
 
