@@ -24,7 +24,7 @@
 
 ## 💡 Project Idea
 
-Sanad is an intelligent system built to help the **Holy Makkah Municipality (Amanah)** determine the priority of municipal service execution across different neighborhoods. The system analyzes key criteria — risk level, location scope, population, and number of reports — and uses AI and data analysis techniques to process this data and produce a ranked list of neighborhoods and services with the highest priority.
+Senad is an intelligent system built to help the **Holy Makkah Municipality (Amanah)** determine the priority of municipal service execution across different neighborhoods. The system analyzes key criteria — risk level, location scope, population, and number of reports — and uses AI and data analysis techniques to process this data and produce a ranked list of neighborhoods and services with the highest priority.
 
 ## 🎯 Project Goals
 
@@ -90,7 +90,7 @@ The prediction model was developed by [Ghala Sami](https://github.com/GhalaSami)
 <summary>📌 Click to view the full project poster</summary>
 <br>
 <p align="center">
-  <img src="sanad-poster.png" alt="Sanad Project Poster" width="600"/>
+  <img src="sanad-poster.png" alt="Senad Project Poster" width="600"/>
 </p>
 </details>
 
