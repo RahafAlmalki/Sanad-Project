@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="sanad-logo.png" alt="Sanad Logo" width="300"/>
+  <img src="senad-logo.svg" alt="Sanad Logo" width="300"/>
 </p>
 
 <h3 align="center">Smart Municipal Service Prioritization System</h3>
