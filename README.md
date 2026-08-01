@@ -84,6 +84,7 @@ See the [`model/`](./model) folder.
 [![Ghala Alhajjaji](https://img.shields.io/badge/Ghala%20Alhajjaji-GhalaSami-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhalaSami)
 
 </div>
+
 ---
 
 <details>
