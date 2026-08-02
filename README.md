@@ -90,6 +90,8 @@ See the [`model/`](./model) folder.
 
 [![Layan Almoqati](https://img.shields.io/badge/Layan%20Almoqati-LayanAlmoqat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LayanAlmoqat)
 
+[![lama Alzahrani](https://img.shields.io/badge/Lama%20Alzahrani-Lamaalzah-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lamaalzah)
+
 </div>
 
 ---
