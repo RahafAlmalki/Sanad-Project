@@ -92,7 +92,7 @@ See the [`model/`](./model) folder.
 
 [![lama Alzahrani](https://img.shields.io/badge/Lama%20Alzahrani-Lamaalzah-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lamaalzah)
 
-[![Rawaa Abdalhadi](https://img.shields.io/badge/Rawaa%20Abdalhadi-181717?style=for-the-badge&logo=github&logoColor=white)]
+![Rawaa Abdalhadi](https://img.shields.io/badge/Rawaa%20Abdalhadi-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
